@@ -36,7 +36,7 @@
     </rect>
    </property>
    <property name="text">
-    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Version 0.1&lt;br/&gt;&lt;br/&gt;A free software under &lt;span style=&quot; font-weight:600;&quot;&gt;GPL Licence&lt;/span&gt;.&lt;br/&gt;Based on Qt 5.0, under LGPL Licence.&lt;br/&gt;&lt;br/&gt;Last update: Sunday, November 3&lt;span style=&quot; vertical-align:super;&quot;&gt;rd&lt;/span&gt; 2013&lt;br/&gt;&lt;br/&gt;&lt;a href=&quot;http://philippemilink.net78.net/filesum/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://philippemilink.net78.net/filesum/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Version 0.1&lt;br/&gt;&lt;br/&gt;A free software under &lt;span style=&quot; font-weight:600;&quot;&gt;GPL Licence&lt;/span&gt;.&lt;br/&gt;Based on Qt 5.0, under LGPL Licence.&lt;br/&gt;&lt;br/&gt;Last update: Sunday, November 17&lt;span style=&quot; vertical-align:super;&quot;&gt;th&lt;/span&gt; 2013&lt;br/&gt;&lt;br/&gt;&lt;a href=&quot;https://github.com/philippemilink/FileSum&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://github.com/philippemilink/FileSum&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
    </property>
   </widget>
   <widget class="QLabel" name="labelIcon">
